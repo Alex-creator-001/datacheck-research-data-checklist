@@ -1,0 +1,9 @@
+Sample_ID,Measurement_Value,Group
+S01,12.3751,Control
+S02,18.6427,Control
+S03,27.9143,Control
+S04,35.2086,Control
+S05,44.7319,Treatment
+S06,53.0864,Treatment
+S07,61.4592,Treatment
+S08,78.3205,Treatment

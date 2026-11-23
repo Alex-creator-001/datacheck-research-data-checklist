@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alex-creator-001.github.io/datacheck-research-data-checklist/sitemap.xml

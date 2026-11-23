@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this pre-submission research data checklist or synthetic sample set, please cite it as below."
+title: "DataCheck Research Source Data Pre-Submission Checklist & Synthetic Examples"
+authors:
+  - name: "DataCheck Team"
+version: 1.0.0
+date-released: 2026-11-23
+url: "https://datacheck.cc/en"
+repository-code: "https://github.com/Alex-creator-001/datacheck-research-data-checklist"
+license: MIT
+keywords:
+  - research integrity
+  - source data
+  - duplicate detection
+  - spreadsheet verification
+  - pre-submission checklist
+  - reproducible research

@@ -1,0 +1,24 @@
+{
+  "title": "DataCheck Research Source Data Pre-Submission Checklist & Synthetic Examples",
+  "upload_type": "dataset",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "DataCheck Team"
+    }
+  ],
+  "keywords": [
+    "research integrity",
+    "source data",
+    "spreadsheet verification",
+    "duplicate data check",
+    "reproducible research"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://datacheck.cc/en",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
