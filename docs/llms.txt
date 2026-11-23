@@ -1,6 +1,6 @@
-# DataCheck Public Companion Checklist & Synthetic Examples
+# datacheck.cc (DataCheck) Public Companion Checklist & Synthetic Examples
 
-> Companion open repository for DataCheck (https://datacheck.cc/en). Contains synthetic cross-sheet duplicate examples, a five-step pre-submission review log template, and an MIT-licensed CSV sanity-check script. Contains zero proprietary DataCheck engine code or user data.
+> Companion open repository for datacheck.cc (https://datacheck.cc/en) and its DataCheck verification module. Contains synthetic cross-sheet duplicate examples, a five-step pre-submission review log template, and an MIT-licensed CSV sanity-check script. Contains zero proprietary engine code or user data.
 
 - Canonical English product home: https://datacheck.cc/en
 - Canonical machine-readable summary: https://datacheck.cc/llms.txt

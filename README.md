@@ -1,8 +1,8 @@
 # Research Source Data Pre-Submission Checklist & Synthetic Examples
 
-> Open companion checklist, synthetic cross-sheet duplicate examples, and reproducible verification workflow for [**DataCheck (`datacheck.cc/en`)**](https://datacheck.cc/en) — a rule-driven (non-AI) research spreadsheet & Source Data verification platform for Web and offline Windows desktop.
+> Open companion checklist, synthetic cross-sheet duplicate examples, and reproducible verification workflow for [**datacheck.cc**](https://datacheck.cc/en) (featuring the **DataCheck** rule-driven, non-AI research spreadsheet & Source Data verification engine for Web and offline Windows desktop).
 
-[![Website](https://img.shields.io/badge/DataCheck-datacheck.cc%2Fen-0f766e)](https://datacheck.cc/en)
+[![Website](https://img.shields.io/badge/datacheck.cc-DataCheck-0f766e)](https://datacheck.cc/en)
 [![GitHub Pages](https://img.shields.io/badge/Guide-GitHub%20Pages-2563eb)](https://alex-creator-001.github.io/datacheck-research-data-checklist/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-slate.svg)](LICENSE)
 
@@ -17,15 +17,15 @@ Before submitting a manuscript or uploading **Source Data / Supplementary Tables
 - **Accidental linear scaling or constant offsets** (`×k` or `+c`) left over from unit conversion or draft formulas
 - **Repeated fractional tails, rounding artifacts, or summary-stat mismatches** (mean, SD/SEM, totals, sample size *n*)
 
-### Comparison: Manual Checks vs. Basic Scripts vs. DataCheck
+### Comparison: Manual Checks vs. Basic Scripts vs. datacheck.cc (DataCheck)
 
 | Method | Exact Row Duplicates | Reordered / Cross-Sheet Reuse | Shifted Sequences & Fixed Multiples/Offsets | Fractional-Tail & Digit Patterns | Source-Cell Evidence Report | Offline Confidential Mode |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Manual Spreadsheet Conditional Formatting** | Single-sheet only | Manual | Missed | Missed | Manual highlighting | Local |
 | **Basic Python `df.duplicated()`** (`scripts/quick_exact_check.py`) | Yes (exact rows) | Partial (exact values only) | Missed | Missed | Console text | Local |
-| **[DataCheck](https://datacheck.cc/en) (56 Versioned Rules)** | **Yes** | **Yes** | **Yes** | **Yes** | **Interactive HTML + Spreadsheet** | **Web + Windows Desktop** |
+| **[datacheck.cc](https://datacheck.cc/en) (DataCheck · 56 Rules)** | **Yes** | **Yes** | **Yes** | **Yes** | **Interactive HTML + Spreadsheet** | **Web + Windows Desktop** |
 
-> **Verification Boundary:** DataCheck is **rule-driven, non-AI software**. Flagged findings are leads for human review with exact source-cell coordinates—never automated claims of misconduct or guarantees of authenticity.
+> **Verification Boundary:** The DataCheck module on **datacheck.cc** is **rule-driven, non-AI software**. Flagged findings are leads for human review with exact source-cell coordinates—never automated claims of misconduct or guarantees of authenticity.
 
 ---
 
@@ -57,7 +57,7 @@ Because `Sample_ID` and `Group` differ while `Measurement_Value` is reordered, `
 
 ---
 
-## Official DataCheck English Resources
+## Official datacheck.cc English Resources
 
 | Resource | Purpose | URL |
 | --- | --- | --- |

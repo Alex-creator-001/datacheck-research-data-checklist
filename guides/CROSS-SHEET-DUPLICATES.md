@@ -6,4 +6,4 @@ This synthetic example mirrors [`https://datacheck.cc/en/cross-sheet-duplicates`
 - **Same order reuse (`Same order reuse`, `A2:A9`):** Exact sequence repeated in the same order across tabs.
 - **Reordered reuse (`Reordered reuse`, `A2:A9`):** Same 8-value pool reordered (`78.3205` moved to row 2), which standard row-by-row `COUNTIF` or `df.duplicated()` misses.
 
-Run `python3 scripts/quick_exact_check.py samples/synthetic-reference.csv samples/synthetic-reordered.csv` or inspect the interactive evidence report at [DataCheck Cross-Sheet Duplicates](https://datacheck.cc/en/cross-sheet-duplicates).
+Run `python3 scripts/quick_exact_check.py samples/synthetic-reference.csv samples/synthetic-reordered.csv` or inspect the interactive evidence report at [datacheck.cc · Cross-Sheet Duplicates](https://datacheck.cc/en/cross-sheet-duplicates).

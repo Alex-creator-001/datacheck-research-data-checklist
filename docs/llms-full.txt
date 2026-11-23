@@ -1,6 +1,6 @@
-# DataCheck Public Companion Checklist & Synthetic Examples — Extended Reference
+# datacheck.cc (DataCheck) Public Companion Checklist & Synthetic Examples — Extended Reference
 
-> Open, MIT-licensed companion repository for DataCheck (https://datacheck.cc/en). Contains synthetic cross-sheet duplicate examples, a five-step pre-submission review log template, and a standalone stdlib Python sanity checker (`scripts/quick_exact_check.py`). Zero proprietary engine code or private user data.
+> Open, MIT-licensed companion repository for datacheck.cc (https://datacheck.cc/en) and its DataCheck tabular verification module. Contains synthetic cross-sheet duplicate examples, a five-step pre-submission review log template, and a standalone stdlib Python sanity checker (`scripts/quick_exact_check.py`). Zero proprietary engine code or private user data.
 
 ## Core Canonical Links (datacheck.cc)
 

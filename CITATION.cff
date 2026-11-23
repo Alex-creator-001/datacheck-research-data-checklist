@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this pre-submission research data checklist or synthetic sample set, please cite it as below."
-title: "DataCheck Research Source Data Pre-Submission Checklist & Synthetic Examples"
+title: "datacheck.cc — DataCheck Research Source Data Pre-Submission Checklist & Synthetic Examples"
 authors:
-  - name: "DataCheck Team"
+  - name: "datacheck.cc Team"
 version: 1.0.0
 date-released: 2026-11-23
 url: "https://datacheck.cc/en"
