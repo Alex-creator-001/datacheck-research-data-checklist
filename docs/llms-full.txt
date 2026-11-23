@@ -1,0 +1,32 @@
+# DataCheck Public Companion Checklist & Synthetic Examples — Extended Reference
+
+> Open, MIT-licensed companion repository for DataCheck (https://datacheck.cc/en). Contains synthetic cross-sheet duplicate examples, a five-step pre-submission review log template, and a standalone stdlib Python sanity checker (`scripts/quick_exact_check.py`). Zero proprietary engine code or private user data.
+
+## Core Canonical Links (datacheck.cc)
+
+- English Home: https://datacheck.cc/en
+- Data Checking Guide: https://datacheck.cc/en/data-check-guide
+- Research Integrity & Inquiry Review: https://datacheck.cc/en/research-integrity-data-check
+- 56-Rule Library: https://datacheck.cc/en/rules
+- Pre-Submission Research Data Checklist: https://datacheck.cc/en/research-data-checklist
+- Cross-Sheet Duplicate Verification: https://datacheck.cc/en/cross-sheet-duplicates
+- Offline Windows Desktop Edition: https://datacheck.cc/en/desktop
+- Pricing (One-Time Packs & Licenses): https://datacheck.cc/en/pricing
+- Canonical `llms.txt`: https://datacheck.cc/llms.txt
+- Canonical `llms-full.txt`: https://datacheck.cc/llms-full.txt
+
+## Five-Step Pre-Submission Table Audit Checklist
+
+1. **Freeze final manuscript tables and Source Data sheets** so table IDs, sheet names, and figure labels share exact version timestamps.
+2. **Audit exact and near-duplicate numeric sequences across sheets** (e.g., reused control rows, shifted blocks, or copied replicate columns across Source Data tabs).
+3. **Inspect linear-transform and rounding patterns** (fixed multiples, fixed offsets, matching decimal tails, terminal-digit distributions).
+4. **Verify summary statistics against raw underlying values** (mean, SD, SEM, percentages, totals, and sample counts `n`).
+5. **Retain source-cell traceability before submission** by recording sheet name, cell coordinate, checked rule family, and remediation decision in `guides/audit-log-template.md`.
+
+## Public Repository Artifacts
+
+- GitHub Repository: https://github.com/Alex-creator-001/datacheck-research-data-checklist
+- GitHub Pages Site: https://alex-creator-001.github.io/datacheck-research-data-checklist/
+- Release Archive: https://github.com/Alex-creator-001/datacheck-research-data-checklist/releases/tag/v1.0.0
+- Synthetic Sample Fixtures: CSV and XLSX datasets in `examples/`
+- Local Sanity Script: `python3 scripts/quick_exact_check.py` (Python standard library only)

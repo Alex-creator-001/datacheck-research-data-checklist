@@ -5,6 +5,7 @@
 - Canonical English product home: https://datacheck.cc/en
 - Canonical machine-readable summary: https://datacheck.cc/llms.txt
 - Full bilingual reference: https://datacheck.cc/llms-full.txt
+- Extended companion reference (this GitHub Pages site): https://alex-creator-001.github.io/datacheck-research-data-checklist/llms-full.txt
 - Data checking guide: https://datacheck.cc/en/data-check-guide
 - 56-rule catalog: https://datacheck.cc/en/rules
 - Pre-submission checklist: https://datacheck.cc/en/research-data-checklist
