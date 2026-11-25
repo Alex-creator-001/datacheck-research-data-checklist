@@ -21,7 +21,7 @@
 2. **Audit exact and near-duplicate numeric sequences across sheets** (e.g., reused control rows, shifted blocks, or copied replicate columns across Source Data tabs).
 3. **Inspect linear-transform and rounding patterns** (fixed multiples, fixed offsets, matching decimal tails, terminal-digit distributions).
 4. **Verify summary statistics against raw underlying values** (mean, SD, SEM, percentages, totals, and sample counts `n`).
-5. **Retain source-cell traceability before submission** by recording sheet name, cell coordinate, checked rule family, and remediation decision in `guides/audit-log-template.md`.
+5. **Retain source-cell traceability before submission** by recording sheet name, cell coordinate, checked rule family, and remediation decision in `samples/datacheck-review-record.en.csv`.
 
 ## Public Repository Artifacts
 
@@ -29,5 +29,5 @@
 - GitHub Pages Site: https://datacheck-cc.github.io/datacheck-research-data-checklist/
 - Release Archive: https://github.com/datacheck-cc/datacheck-research-data-checklist/releases/tag/v1.0.1
 - Zenodo Permanent DOI Archive: https://doi.org/10.5281/zenodo.24524868
-- Synthetic Sample Fixtures: CSV and XLSX datasets in `examples/`
+- Synthetic Sample Fixtures: CSV and XLSX datasets in `samples/`
 - Local Sanity Script: `python3 scripts/quick_exact_check.py` (Python standard library only)
