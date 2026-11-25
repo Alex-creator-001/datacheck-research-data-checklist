@@ -3,7 +3,7 @@
 > Open companion checklist, synthetic cross-sheet duplicate examples, and reproducible verification workflow for [**datacheck.cc**](https://datacheck.cc/en) (featuring the **DataCheck** rule-driven, non-AI research spreadsheet & Source Data verification engine for Web and offline Windows desktop).
 
 [![Website](https://img.shields.io/badge/datacheck.cc-DataCheck-0f766e)](https://datacheck.cc/en)
-[![GitHub Pages](https://img.shields.io/badge/Guide-GitHub%20Pages-2563eb)](https://alex-creator-001.github.io/datacheck-research-data-checklist/)
+[![GitHub Pages](https://img.shields.io/badge/Guide-GitHub%20Pages-2563eb)](https://datacheck-cc.github.io/datacheck-research-data-checklist/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-slate.svg)](LICENSE)
 
 ---

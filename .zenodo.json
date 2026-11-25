@@ -1,10 +1,12 @@
 {
   "title": "DataCheck Research Source Data Pre-Submission Checklist & Synthetic Examples",
+  "description": "Pre-submission research Source Data audit checklist, synthetic cross-sheet duplicate examples, and source-cell verification guide (MIT companion dataset for datacheck.cc).",
   "upload_type": "dataset",
   "license": "MIT",
   "creators": [
     {
-      "name": "DataCheck Team"
+      "name": "DataCheck Team",
+      "affiliation": "datacheck.cc"
     }
   ],
   "keywords": [
@@ -18,6 +20,11 @@
     {
       "identifier": "https://datacheck.cc/en",
       "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://datacheck.cc/en/research-data-checklist",
+      "relation": "isDocumentedBy",
       "scheme": "url"
     }
   ]

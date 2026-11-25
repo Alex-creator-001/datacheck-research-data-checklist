@@ -6,7 +6,7 @@ authors:
 version: 1.0.0
 date-released: 2026-11-23
 url: "https://datacheck.cc/en"
-repository-code: "https://github.com/Alex-creator-001/datacheck-research-data-checklist"
+repository-code: "https://github.com/datacheck-cc/datacheck-research-data-checklist"
 license: MIT
 keywords:
   - research integrity

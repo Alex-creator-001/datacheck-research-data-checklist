@@ -25,8 +25,8 @@
 
 ## Public Repository Artifacts
 
-- GitHub Repository: https://github.com/Alex-creator-001/datacheck-research-data-checklist
-- GitHub Pages Site: https://alex-creator-001.github.io/datacheck-research-data-checklist/
-- Release Archive: https://github.com/Alex-creator-001/datacheck-research-data-checklist/releases/tag/v1.0.0
+- GitHub Repository: https://github.com/datacheck-cc/datacheck-research-data-checklist
+- GitHub Pages Site: https://datacheck-cc.github.io/datacheck-research-data-checklist/
+- Release Archive: https://github.com/datacheck-cc/datacheck-research-data-checklist/releases/tag/v1.0.0
 - Synthetic Sample Fixtures: CSV and XLSX datasets in `examples/`
 - Local Sanity Script: `python3 scripts/quick_exact_check.py` (Python standard library only)
