@@ -4,6 +4,7 @@ title: "datacheck.cc — DataCheck Research Source Data Pre-Submission Checklist
 authors:
   - name: "datacheck.cc Team"
 version: 1.0.1
+doi: "10.5281/zenodo.24524868"
 date-released: 2026-11-25
 url: "https://datacheck.cc/en"
 repository-code: "https://github.com/datacheck-cc/datacheck-research-data-checklist"

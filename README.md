@@ -4,6 +4,7 @@
 
 [![Website](https://img.shields.io/badge/datacheck.cc-DataCheck-0f766e)](https://datacheck.cc/en)
 [![GitHub Pages](https://img.shields.io/badge/Guide-GitHub%20Pages-2563eb)](https://datacheck-cc.github.io/datacheck-research-data-checklist/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24524868.svg)](https://doi.org/10.5281/zenodo.24524868)
 [![License: MIT](https://img.shields.io/badge/License-MIT-slate.svg)](LICENSE)
 
 ---
@@ -79,3 +80,13 @@ Because `Sample_ID` and `Group` differ while `Measurement_Value` is reordered, `
 - **[Cross-Sheet Duplicate Case Study](guides/CROSS-SHEET-DUPLICATES.md)**
 - **[Research Data & Source-Cell Verification FAQ](guides/FAQ.md)**
 - **[Machine-Readable Index (`llms.txt`)](llms.txt)**
+
+---
+
+## Citation
+
+If you use this checklist or synthetic dataset in manuscript preparation or data-integrity reviews, please cite the permanent Zenodo archive:
+
+- **DOI:** <https://doi.org/10.5281/zenodo.24524868>
+- **Record:** <https://zenodo.org/records/24524869>
+- See [`CITATION.cff`](CITATION.cff) for machine-readable citation metadata.

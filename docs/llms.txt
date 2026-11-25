@@ -13,3 +13,4 @@
 - Research integrity & inquiry review: https://datacheck.cc/en/research-integrity-data-check
 - Windows offline desktop app: https://datacheck.cc/en/desktop
 - One-time pricing (no subscription): https://datacheck.cc/en/pricing
+- Zenodo permanent DOI archive: https://doi.org/10.5281/zenodo.24524868
